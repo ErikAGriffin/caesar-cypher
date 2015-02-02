@@ -10,5 +10,5 @@ end
 
 
 
-puts encode2('ANY phrase AT*ALL!')
+puts encode('ANY phrase AT*ALL!')
 
